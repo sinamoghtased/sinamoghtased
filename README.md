@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sina Moghtased!
 
 🚀 Graduate Student in Software Engineering @ UT Dallas  
-💻 Front-End Developer passionate about building responsive, dynamic web applications  
+💻 Full-Stack Developer passionate about building responsive, dynamic web applications  
 
 ---
 
