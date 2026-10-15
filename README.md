@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sina Moghtased!
 
-### 💼 Associate Software Engineer @ T-Mobile
+### 💼 Software Engineer Intern @ T-Mobile
 ### 🚀 Graduate Student in Software Engineering @ UT Dallas
 
 
